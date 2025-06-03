@@ -26,8 +26,8 @@ Inspired by the [CAMEL framework](https://arxiv.org/abs/2303.17760), this repo i
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/camel-roleplay.git
-cd camel-roleplay
+git clone https://github.com/Pranav-7/AI_Agents_Implementation.git
+cd 2_RolePlay
 ````
 
 ---
