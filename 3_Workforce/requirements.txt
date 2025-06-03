@@ -1,0 +1,3 @@
+python-dotenv
+'camel-ai[all]'
+openai
