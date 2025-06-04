@@ -17,8 +17,8 @@ This project implements a single AI agent that reviews Python code and provides 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/ai-code-reviewer.git
-cd ai-code-reviewer
+git clone https://github.com/Pranav-7/AI_Agents_Implementation.git
+cd 1_Single
 ````
 
 ### 2. Create and activate a virtual environment
